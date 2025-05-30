@@ -13,7 +13,8 @@ Orange cats, often called "ginger" or "marmalade" kitties, are beloved worldwide
 
 2. Concept and Vision 2.1
    
-2.1 The Meme: Oranged is Blacked Cat
+2.1 The Meme:
+Oranged is Blacked Cat
 $OCATBLACK is inspired by the intersection of the "Red Heads are Black" TikTok movement and the genetic uniqueness of orange cats. The project humorously suggests that orange cats, like the movement's redheads, possess a special, almost mythical quality—backed by science showing their coloration stems from a rare X-chromosome mutation. The tagline "Oranged is Blacked Cat" is a playful nod to this, celebrating orange cats as uniquely charismatic and culturally significant, embodied by icons like Morris, the finicky 9Lives spokescat.
 
 2.2 Goals
