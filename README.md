@@ -102,6 +102,7 @@ Donations to shelters, focusing on rehoming orange cats.
 Community-voted partnerships with animal welfare organizations.
 
 7. Roadmap
+
 Phase 1: Launch (Q3 2025)
 Deploy $OCATBLACK token on Solana mainnet.
 Conduct fair launch public sale.
