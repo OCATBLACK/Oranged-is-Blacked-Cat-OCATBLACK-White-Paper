@@ -39,14 +39,19 @@ The $OCATBLACK token supply is allocated as follows:
 
 * Public Sale (40%): 133,200,000 tokens
   -Distributed via a fair launch to ensure broad community access.
+
 *Liquidity Pool (20%): 66,600,000 tokens
 -Seeded into decentralized exchanges (e.g., Raydium) for trading liquidity.
+
 *Community and Marketing (15%): 49,950,000 tokens
 -Used for airdrops, meme contests, TikTok campaigns, NFT collaborations, and promotional efforts.
+
 *Development Fund (10%): 33,300,000 tokens
 -Allocated for ongoing development, audits, and platform enhancements.
+
 *Team (10%): 33,300,000 tokens
 -Vested over 24 months to align team incentives with long-term success.
+
 *Charity (5%): 16,650,000 tokens
 -Donate to feline welfare organizations, with transparent reporting.
 
