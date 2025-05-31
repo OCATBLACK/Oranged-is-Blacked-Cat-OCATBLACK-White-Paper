@@ -6,6 +6,7 @@ Ca:
 Oranged is Blacked Cat ($OCATBLACK) White Paper
 
 Abstract
+
 The "Oranged is Blacked Cat" ($OCATBLACK) token is a meme-inspired cryptocurrency built on the Solana blockchain, merging the viral TikTok movement "Red Heads are Black" with the scientific discovery of the genetic basis for orange fur in cats. This project celebrates the unique charm of orange tabby cats in a playful, meme-driven way, leveraging their cultural popularity and recent genetic research. With a total supply of 333 million tokens, $OCATBLACK aims to foster community engagement through humor, memes, and blockchain technology while supporting feline-related initiatives. This white paper outlines the concept, tokenomics, technical architecture, and roadmap for $OCATBLACK.
 
 1. Introduction
