@@ -65,7 +65,7 @@ $OCATBLACK serves as the native currency of the Oranged is Blacked Cat ecosystem
 * Tipping and Donations: Tip $OCATBLACK to content creators on TikTok or donate to feline welfare causes directly on the platform.
 
 4. Scientific Inspiration
-The $OCATBLACK concept draws from recent genetic research on orange cats. Studies led by Greg Barsh at Stanford University and Hiroyuki Sasaki at Kyushu University identified a 5,076-base pair deletion near the Arhgap36 gene on the X chromosome as the cause of orange fur. This deletion increases Arhgap36 activity, producing 13 times more RNA in melanocytes, shifting pigment production from black/brown eumelanin to red/yellow pheomelanin [Ref: MSN article 1, MSN article 2]. This explains why most fully orange cats are male (needing one X chromosome) and why female orange cats often display calico or tortoiseshell patterns due to X-chromosome inactivation. These findings, detailed in 2024, confirm that orange coloration is a uniquely feline trait, not observed in other mammals [Ref: MSN article 2].The project uses this science to craft a narrative that orange cats are "genetic unicorns," tying it to the "Red Heads are Black" TikTok movement for a humorous, relatable brand identity, with Morris as a cultural touchstone for their finicky yet lovable charm
+The $OCATBLACK concept draws from recent genetic research on orange cats. Studies led by Greg Barsh at Stanford University and Hiroyuki Sasaki at Kyushu University identified a 5,076-base pair deletion near the Arhgap36 gene on the X chromosome as the cause of orange fur. This deletion increases Arhgap36 activity, producing 13 times more RNA in melanocytes, shifting pigment production from black/brown eumelanin to red/yellow pheomelanin. This explains why most fully orange cats are male (needing one X chromosome) and why female orange cats often display calico or tortoiseshell patterns due to X-chromosome inactivation. These findings, detailed in 2024, confirm that orange coloration is a uniquely feline trait, not observed in other mammals.The project uses this science to craft a narrative that orange cats are "genetic unicorns," tying it to the "Red Heads are Black" TikTok movement for a humorous, relatable brand identity, with Morris as a cultural touchstone for their finicky yet lovable charm
 
 5. Technical Architecture
 
@@ -103,25 +103,25 @@ Community-voted partnerships with animal welfare organizations.
 
 7. Roadmap
 
-Phase 1: Launch (Q3 2025)
+Phase 1: Launch (Q2 2025)
 Deploy $OCATBLACK token on Solana mainnet.
 Conduct fair launch public sale.
 Seed liquidity on Raydium and other DEXs.
 Launch TikTok and social media presence with $OCATBLACK-themed meme challenges.
 
-Phase 2: Community Building (Q4 2025)
+Phase 2: Community Building (Q3 2025)
 Release first Oranged is Blacked Cat NFT collection, $OCATBLACK-inspired designs.
 Initiate staking program for $OCATBLACK holders.
 Partner with feline welfare organizations for initial donations.
 Establish governance framework for community voting.
 
-Phase 3: Expansion (Q1 2026)
+Phase 3: Expansion (Q4 2025)
 Launch $OCATBLACK tipping bot on TikTok, X, and Discord.
 Introduce educational content about orange cat genetics.
 Expand NFT marketplace with user-generated designs.
 Host virtual “Oranged is Blacked Cat” event with global participation.
 
-Phase 4: Sustainability (Q2 2026 and Beyond)
+Phase 4: Sustainability (Q1 2026 and Beyond)
 Implement token burn mechanism to enhance scarcity.
 Explore cross-chain bridges for $OCATBLACK interoperability.
 Fund research into ancient orange cat DNA, inspired by Egyptian cat mummies.
